@@ -25,8 +25,7 @@ int main()
 
 
 
-float d=3.14;
-long double e =3.14;
+
 
 cout<<"the size of 34.4 is "<<sizeof (34.4)<<endl;
 cout<<"the size of 34.4f is "<<sizeof (34.4f)<<endl;
