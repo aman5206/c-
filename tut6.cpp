@@ -17,12 +17,20 @@ int main(){
 // cout<< ((a==b)&&(a<=b))<<endl;
 // cout<< ((a==b)||(a<=b))<<endl;
 // cout<< (!(a==b))<<endl;
-int a=8,b=12;
-int c=1234;
-cout<<setw(5)<<a<<endl;
-cout<<setw(5)<<b<<endl;
-cout<<setw(5)<<c<<endl;
 
+//Manipulators in c++
+
+
+// int a=8,b=12;
+// int c=1234;
+// cout<<setw(5)<<a<<endl;
+// cout<<setw(5)<<b<<endl;
+// cout<<setw(5)<<c<<endl;
+
+ const int a=38;
+cout<<a<<endl;
+
+cout<<a<<endl;
 
 
 
